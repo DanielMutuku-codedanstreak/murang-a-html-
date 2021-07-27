@@ -1,10 +1,10 @@
 *{
     font-family: 'Times New Roman', Times, serif;
     transition-duration: 1s;
-    transition:4s;
+    transition:2s;
 }
 
-a:hover{
+.link:hover{
     color:black;
 }
 
